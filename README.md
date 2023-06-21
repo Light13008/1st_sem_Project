@@ -27,3 +27,7 @@ Here's a basic explanation of how  my prototype works:
    - The speaker converts these signals into audible sound, creating a musical tone.
 
 Prototype allows users to interact with the instrument by moving their hand or any other object in the sensor's proximity. The movements control the pitch and volume of the generated sound, enabling the user to create music by manipulating the position of their hand or object in the air.
+
+
+Inspired by-
+DR.SHELDON.COOOPER (SEASON 4,EP-12, @13minutes 19seconds)
